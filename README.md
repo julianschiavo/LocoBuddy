@@ -12,6 +12,8 @@ This package is heavily inspired by and uses code adapted from [Douglas' in dept
 
 **LocoBuddy** requires **macOS 11+** and is used directly on the command-line (Terminal). The command-line interface is created through Apple's [Swift Argument Parser](https://github.com/apple/swift-argument-parser) library, which is added through Swift Package Manager. 
 
+*SF Symbols are used in output, so it is recommended to use an Apple SF font, such as SF Mono, on Terminal, but if not the tool will work and display unicode unknown symbols instead.*
+
 <br>
 
 ## Installation
@@ -63,6 +65,7 @@ LocoBuddy translate --key "URL_ACTION_BOOKMARK" "SC" "TC"
 􀰑   添加到书签
 􀎫   ContactsUI.lg
 􀆪   Simplified Chinese
+...
 ```
 
 <br>
