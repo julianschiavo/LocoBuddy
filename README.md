@@ -80,7 +80,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidel
 
 ## Credit
 
-**LocoBuddy** was created by [Julian Schiavo](https://twitter.com/julianschiavo), and published available under the [MIT License](LICENSE). The original code is adapted from [Douglas Hill's post *Localisation using Apple’s glossaries*](https://douglashill.co/localisation-using-apples-glossaries/) under the MIT License.
+**LocoBuddy** was created by [Julian Schiavo](https://twitter.com/julianschiavo), and published under the [MIT License](LICENSE). The original code is adapted from Douglas Hill's post [*Localisation using Apple’s glossaries*](https://douglashill.co/localisation-using-apples-glossaries/) under the MIT License.
 
 <br>
 
