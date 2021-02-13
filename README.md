@@ -22,7 +22,7 @@ You can download the latest build of **LocoBuddy**, or build it from the source 
 
 ### Prebuilt Install
 
-Download the `LocoBuddy` binary in the [latest release](releases), then run it from Terminal.
+Download the `LocoBuddy` binary in the [latest release](https://github.com/julianschiavo/LocoBuddy/releases/latest), then run it from Terminal.
 
 ### Manual Build
 
