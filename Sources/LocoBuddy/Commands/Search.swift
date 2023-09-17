@@ -42,7 +42,7 @@ struct Search: ParsableCommand {
         let options = keyedEntries
             .filter { entry in
                 switch match {
-                case .exact: return entry.key.lowercased() == text
+                case .exact: return entry.key.lowercased() == text.lowercased()
                 case .contains: return entry.key.lowercased().contains(text.lowercased())
                 case .containsAll:
                     let textWords = text.split(separator: " ")
